@@ -15,7 +15,7 @@ engine = pyttsx3.init()
 voices = engine.getProperty('voices')
 engine.setProperty('voice',voices[0].id)
 
-name = ['coco','coro']
+name = ['coco','coro','x']
 estadoJarvis = True
 rec = ''
 

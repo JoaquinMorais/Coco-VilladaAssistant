@@ -14,8 +14,8 @@ Lista de comandos:
 ==============================================================================================
 Villada Assistant 1:
 Ejecutar el archivo Alice.py
-Para poder hacer que funcione hay que llamar al bot siempre (nombre=coro)
-por ejemplo: Hola Coro / Chau Coro / Pone Musica Coro / Coro Reproduceme...
+Para poder hacer que funcione hay que llamar al bot siempre (nombre=x)
+por ejemplo: Hola x / Chau x / Pone Musica x / x Reproduceme...
 ==============================================================================================
 Villada Assistant 2:
 Es igual que el proyecto anterior pero añadiendole las funcionalidades practicas.
