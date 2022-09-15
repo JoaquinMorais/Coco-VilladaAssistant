@@ -1,0 +1,28 @@
+==============================================================================================
+Bot De Whatsapp:
+Ejecuta el archivo main.py, luego presiona la tecla numero 4
+Luego dirijite rapidamente al chat de whatsapp con el q queres comunicarte, cuando el programa 
+escriba "Bot Iniciado" significa que se prendio.
+
+Lista de comandos:
+!turnoff      //Apaga El Bot (Hacerlo siempre que se quiera volver a usar la computadora)
+!help         
+!info
+!preguntados
+!presentacion
+!musica
+==============================================================================================
+Villada Assistant 1:
+Ejecutar el archivo Alice.py
+Para poder hacer que funcione hay que llamar al bot siempre (nombre=coro)
+por ejemplo: Hola Coro / Chau Coro / Pone Musica Coro / Coro Reproduceme...
+==============================================================================================
+Villada Assistant 2:
+Es igual que el proyecto anterior pero añadiendole las funcionalidades practicas.
+Ejecute el proyecto main.py
+Para poder hacer que funcione hay que llamar al bot siempre (nombre=coro)
+por ejemplo: Hola Coro / Chau Coro / Pone Musica Coro / Coro Pone Spotify
+
+El proyecto se encuentra por default en modo escribir, para que cambie a modo voz escribir
+"Coro Cambiar modo"
+
